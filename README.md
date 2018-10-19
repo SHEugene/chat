@@ -1,1 +1,1 @@
-Hello, this is char by Node.js in Actions
+Hello, this is chat by Node.js in Actions
